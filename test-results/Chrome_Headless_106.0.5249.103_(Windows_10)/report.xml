@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome Headless 106.0.5249.103 (Windows 10)" package="" timestamp="2022-10-12T03:27:56" id="0" hostname="DESKTOP-0RPHAG4" tests="3" errors="0" failures="0" time="0.125">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/106.0.5249.103 Safari/537.36"/>
+  </properties>
+  <testcase name="AppComponent should render title" time="0.103" classname="Chrome_Headless_106_0_5249_103_(Windows_10).AppComponent"/>
+  <testcase name="AppComponent should create the app" time="0.012" classname="Chrome_Headless_106_0_5249_103_(Windows_10).AppComponent"/>
+  <testcase name="AppComponent should have as title 'my-app'" time="0.01" classname="Chrome_Headless_106_0_5249_103_(Windows_10).AppComponent"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
