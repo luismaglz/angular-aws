@@ -44,11 +44,11 @@ phases:
       - yarn test
       # - command
 reports:
-  junit-reporter:
+  junit-reports:
     files:
-      - report.xml
+      - test-results/*.xml
       # - location
-    base-directory: test-results
+    # base-directory: test-results
     #discard-paths: yes
     file-format: JunitXml
 artifacts:
