@@ -53,11 +53,11 @@ reports:
     file-format: JunitXml
 artifacts:
   files:
-    - dist\myapp
+    - myapp
     # - location
   #name: $(date +%Y-%m-%d)
   #discard-paths: yes
-  #base-directory: location
+  base-directory: dist
 #cache:
   #paths:
     # - paths
